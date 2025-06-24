@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+About me: about 3 years of experience: Autosar/Embedded Software Engineer
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[phamtuan170420@gmail.com](mailto:phamtuan170420@gmail.com)
